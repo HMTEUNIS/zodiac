@@ -10,7 +10,7 @@ export default function Home() {
             <ul>
                 <label>needed for MVP:</label>
                 <li>- more date data thats handled the data that is light and queriable</li>
-                <li>- planets in motion / solar system animation</li>
+                <li>- planets in motion / 3d solar system animation</li>
                 <li>- little popups to describe each placement breifly</li>
               </ul>          
               <ul>
